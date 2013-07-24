@@ -21,3 +21,17 @@ Tools
 * LaTeX - reports/papers
 * R with ggplot2 or gnuplot - plotting charts
 * Sage - calculations
+
+
+Cheating
+--------
+
+I am making my coursework available under the assumption that it will not be
+plagiarized, use to cheat, or used for other malicious activities.
+
+
+Pull Requests
+-------------
+
+I will gladly accept pull requests to improve the quality of past work. Pull
+requests for current/ongoing work will not be accepted unless otherwise stated.
