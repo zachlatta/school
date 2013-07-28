@@ -3,13 +3,13 @@
 ## Agenda
 
 * Divided into two grounds, supervised and unsupervised learning
-  * Supervised learning
-    * Inspiration from line fitting
-    * A numerical optimization method - gradient descent
-    * Binary (logical) classification
-    * Multiple classification
-    * Neural network and support vector machine
-  * Unsupervised learning
+* Supervised learning
+  * Inspiration from line fitting
+  * A numerical optimization method - gradient descent
+  * Binary (logical) classification
+  * Multiple classification
+  * Neural network and support vector machine
+* Unsupervised learning
 
 ## Supervised Learning
 
