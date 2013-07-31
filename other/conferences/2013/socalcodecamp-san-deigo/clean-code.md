@@ -20,8 +20,7 @@ Number one reason:
 
 ## The Next Developer
 
-Json
-![Json](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Jasonf.jpg/250px-Jasonf.jpg)
+![Json](assets/clean_code_json.jpg)
 
 ## The DRY Principle
 
