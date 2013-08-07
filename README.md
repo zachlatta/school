@@ -19,7 +19,7 @@ Tools
 * Github - repository host
 * vim - viewing/taking notes
 * LaTeX - reports/papers
-* R with ggplot2 or gnuplot - plotting charts
+* Julia - technical computing
 * Sage - calculations
 
 
