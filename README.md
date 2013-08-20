@@ -20,7 +20,6 @@ Tools
 * vim - viewing/taking notes
 * LaTeX - reports/papers
 * Julia - technical computing
-* Sage - calculations
 
 
 Cheating
