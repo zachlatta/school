@@ -7,6 +7,17 @@ Performing as cast member: Zach, Label: 60, Symbol: T, ID:249
 * HH - Home hash
 * VH - Visitor hash
 * HSL - Home side line
+* O - Outside
+* I - Inside
+* L - Left
+* R - Right
+
+#### Examples
+
+2OL30 - 2 steps outside left 30 yard line
+4IL25 - 4 steps inside left 25 yard line
+6FHH - 6 steps in front of home hash
+13.5BHSL - 13.5 steps behind home side line
 
 ### Sets
 
