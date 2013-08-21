@@ -2,14 +2,6 @@
 
 Performing as cast member: Zach, Label: 60, Symbol: T, ID:249
 
-### Legend
-
-* S - Set
-* M - Move
-* C - Count
-* 4th item - Left-Right
-* 5th item - Vistor-Home
-
 ### Sets
 
 | Set | Move | Count | Left-Right | Visitor-Home | Notes                      |
