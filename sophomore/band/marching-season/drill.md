@@ -2,6 +2,12 @@
 
 Performing as cast member: Zach, Label: 60, Symbol: T, ID:249
 
+### Legend
+
+* HH - Home hash
+* VH - Visitor hash
+* HSL - Home side line
+
 ### Sets
 
 | Set | Move | Count | Left-Right | Visitor-Home | Notes                      |
@@ -18,3 +24,7 @@ Performing as cast member: Zach, Label: 60, Symbol: T, ID:249
 | 10  | 6    | 71    | 4IL40      | 12FHH        |                            |
 | 11  | 6    | 77    | 4IL40      | 12FHH        |                            |
 | 12  | 6    | 83    | 4IL40      | 12FHH        |                            |
+| 13  | 2    | 85    | 4IL40      | 12FHH        |                            |
+| 14  | 8    | 93    | 2.5L50     | 13FHH        | Skip this set.             |
+| 15  | 8    | 101   | 1.5IR45    | 13.5BHSL     |                            |
+| 16  | 16   | 117   | 2R50L      | 6FHH         |                            |
