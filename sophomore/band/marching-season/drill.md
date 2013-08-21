@@ -1,6 +1,6 @@
 # ESHS Sacrifice & Ascension 2013
 
-## Performing as cast member: Zach  Label: 60  Symbol: T  ID:249
+Performing as cast member: Zach, Label: 60, Symbol: T, ID:249
 
 ### Legend
 
