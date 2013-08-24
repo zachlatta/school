@@ -10,3 +10,5 @@
 * Knowing how to create fire is a discovery unique to humans.
   * The use of fire for cooking allowed early humans to eat a wide range of
     foods, particularily animal protein.
+
+
