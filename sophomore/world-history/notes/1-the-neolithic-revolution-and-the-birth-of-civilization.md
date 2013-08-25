@@ -42,3 +42,22 @@
   * For human children to survive, their parents or other adults had to devote
     a much longer period to providing food. This caused family structures
     to develop accordingly.
+
+### Paleolithic Culture
+
+* During the late Paleolithic Age, human groups survived by combining hunting
+  and fishing with the gather of wild fruits, berries, grains, and roots.
+* Instead of using wood and bone for tools, humans were using stone tools
+  similar to the ones depicted below.
+
+![Examples of late Paleolithic stone tools](assets/paleolithic_stone_tools.jpg)
+
+* The late Paleolithic was a period of particularly intense artistic
+  creativity.
+  * Fine miniature sculpture, beads, carved bones, and other forms of jewelry
+    have been found dating from this period.
+  * The most striking works discovered at ancient dwelling sites are cave
+    paintings.
+    * Some of these paintings appear to have religious significance.
+* The art of the Old Stone Age indicates that humans were becoming increasingly
+  interested in leaving lasting images of their activities and concerns.
