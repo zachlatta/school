@@ -47,11 +47,7 @@
 
 * During the late Paleolithic Age, human groups survived by combining hunting
   and fishing with the gather of wild fruits, berries, grains, and roots.
-* Instead of using wood and bone for tools, humans were using stone tools
-  similar to the ones depicted below.
-
-![Examples of late Paleolithic stone tools](assets/paleolithic_stone_tools.jpg)
-
+* Instead of using wood and bone for tools, humans were using stone tools.
 * The late Paleolithic was a period of particularly intense artistic
   creativity.
   * Fine miniature sculpture, beads, carved bones, and other forms of jewelry
