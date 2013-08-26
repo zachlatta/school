@@ -118,7 +118,7 @@
 1. Describe how the scientific advancements of the 19th century brought the
    history 
 of beverages full circle. 
-2. Which water's quality is more tightly controlled-tap or bottled? 
+2. Which waters' quality is more tightly controlled-tap or bottled? 
 3. How many people have no access to safe water today? 
 4. How has access to water affected international relations?
 
