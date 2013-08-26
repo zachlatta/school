@@ -21,6 +21,8 @@ Performing as cast member: Zach, Label: 60, Symbol: T, ID:249
 
 ### Sets
 
+### Opener
+
 | Set | Move | Count | Left-Right | Visitor-Home | Notes                      |
 | --- | ---- | ----- | ---------- | ------------ | -------------------------- |
 | 1   | 0    | 1     | On L30     | 0.5FHH       |                            |
