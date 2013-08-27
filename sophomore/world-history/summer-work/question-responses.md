@@ -1,7 +1,7 @@
 # BEER 
 
 1. How is the discovery of beer linked to the growth of the first
-   “civilizations”?
+   "civilizations"?
    * The discovery of beer introduced the need for grain in everyday
      society. This led to the need for agriculture, which then led to permanent
      settlements, creating the first civilizations.
@@ -18,7 +18,7 @@
    * Beer had many roles in ancient society. Those include leisure, medicinal,
      funerary, and currency. It was also used in rituals (ie. offerings to the
      gods) and was considered a sacred beverage.
-5. How did beer “civilize” man, according to Standage?
+5. How did beer "civilize" man, according to Standage?
    * Beer introduced the need for agriculture, which led to permanent
      settlements, which led to the creation of the first civilizations.
 6. What is the relationship between beer and writing, commerce, and health?
@@ -114,7 +114,7 @@
    * Coffee houses became a play for informal intellectual conversation.
      At coffee houses scientists could discuss and recieve feedback on ideas.
      Lectures were also sometimes held at coffee houses.
-5. How did coffee play a pivotal role in the „financial revolution‟?
+5. How did coffee play a pivotal role in the financial revolution?
    * Originally stocks were traded in the royal exchange, but the government
      passed laws placing limits on the trades. In protest, brokers moved to
      nearby coffee houses, which led to the creation of the London Stock
@@ -182,7 +182,7 @@
 4. How was coke thought of by the communist during the Cold War? 
    * Coca Cola was thought of as "too American" by the communist side during
      the Cold War.
-5. What is meant by “globalization in a bottle”? 
+5. What is meant by "globalization in a bottle"? 
    * Coca Cola embodies what happened in the 20th century; the rise of consumer
      capitalism and the rise of America as a global superpower.
 6. How did Coco-Cola become basically seen as an American value? How did this
@@ -220,7 +220,7 @@
    value? 
    * Supposed medicinal value establishes trust with the drinker, easing it
      into mainstream use.
-4. How is the idea of “civilized” used in the book? 
+4. How is the idea of "civilized" used in the book? 
    * The idea of "civilized" in the book is established as following the
      acceptabled social practices of the superpower at the time.
 5. What beverages (besides water) are NOT addressed as beverages in the book? 
