@@ -151,7 +151,7 @@
 * The move to agriculture was extremely gradual.
   * Early experimenters always continued hunting and gathering to survive.
 * As the Stone Age peoples became more adept and cultivating a growing range
-  of craps, the effort they expended on activities outside of agriculture
+  of crops, the effort they expended on activities outside of agriculture
   diminished.
   * Some bands chose to settle down, others practiced a mix of hunting and
     **shifting cultivation** that allowed them to continue to move about.
