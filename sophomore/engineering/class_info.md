@@ -1,5 +1,8 @@
 # Class Info
 
+Website: https://sites.google.com/site/enoeshs/poe
+Syllabus: https://sites.google.com/site/enoeshs/poe/poe-syllabus
+
 ## Course Layout
 
 ### First Semester
