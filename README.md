@@ -7,8 +7,7 @@ I'm open sourcing my education.
 Why am I doing this?
 --------------------
 
-School sucks. This is my attempt to make it more enjoyable for myself. I'm
-challenging myself to modernize my education by taking advantage of the
+I'm challenging myself to modernize my education by taking advantage of
 technology available.
 
 
