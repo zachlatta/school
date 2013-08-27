@@ -1,4 +1,6 @@
-# The Neolithic Revolution and the Birth of Civilization
+# From Human Prehistory to the Early Civilizations
+
+## The Neolithic Revolution and the Birth of Civilization
 
 * **Neolithic Age** - New Stone Age. Period in the development of human
   technology beginning about 10,200 BC and ending between 4,500 and 2,000 BC.
@@ -13,7 +15,7 @@
     foods, particularly animal protein.
 * Our early ancestors could talk.
 
-## Human Life in the Era of Hunters and Gatherers
+### Human Life in the Era of Hunters and Gatherers
 
 * **Big History** - furthers discussion of when and how the human species
   emerged and what impact it would have, over time, on the physical environment
@@ -43,7 +45,7 @@
     a much longer period to providing food. This caused family structures
     to develop accordingly.
 
-### Paleolithic Culture
+#### Paleolithic Culture
 
 * During the late Paleolithic Age, human groups survived by combining hunting
   and fishing with the gather of wild fruits, berries, grains, and roots.
@@ -58,7 +60,7 @@
 * The art of the Old Stone Age indicates that humans were becoming increasingly
   interested in leaving lasting images of their activities and concerns.
 
-### The Spread of Human Culture
+#### The Spread of Human Culture
 
 * Migration led to the early peopling of the world's major land masses.
   * It was essential whenever hunting and gathering populations expanded.
@@ -68,7 +70,7 @@
 * By the late Paleolithic Age, groups of humans had colonized all of the
   continents except Antarctica.
 
-### Human Society and Daily Life at the End of the Paleolithic Age
+#### Human Society and Daily Life at the End of the Paleolithic Age
 
 * Although most human societies in the Paleolithic Age consisted of small
   hunter-gatherer groups, natural conditions and human ingenuity permitted
@@ -87,7 +89,7 @@
     and injuries.
   * Children - helped women with many tasks
 
-### Settling Down: Dead Ends and Transitions
+#### Settling Down: Dead Ends and Transitions
 
 * Most humans lived in small hunting-and-gathering bands until well into the
   agrarian revolution.
@@ -114,7 +116,7 @@
     after 9000 BC. One thousand years later, all the Natufian sites had been
     abandoned.
 
-### A Precarious Existence
+#### A Precarious Existence
 
 * The progression of human technology advancement was remarkably slow until the
   late Paleolithic Age.
@@ -124,7 +126,7 @@
   settlements created heavy reliances on gathering techniques that worked to
   their demise when climate or migration patterns changed.
 
-## Agriculture and the Origins of Civilization: The Neolithic Revolution
+### Agriculture and the Origins of Civilization: The Neolithic Revolution
 
 * Between 8000 and 3500 BCE increasing numbers of humans moved from hunting and
   gathering to depending on cultivated crops and domesticated animals for
@@ -144,7 +146,7 @@
     collection of wild grains, which eventually led to the concious and
     systematic cultivation of plants and, thus, the **Neolithic revolution**.
 
-### The Domestication of Plants and Animals
+#### The Domestication of Plants and Animals
 
 * **Neolithic revolution** - the critical transformation in human culture
   caused by the discovery of agriculture and domestication of animals
@@ -168,7 +170,7 @@
 * The domestication of animals increased the incidence of disease.
   * Up to 80 percent of all human diseases came originally from animals.
 
-### The Spread of the Neolithic Revolution
+#### The Spread of the Neolithic Revolution
 
 * Requiring a large amount of labor for little immediate return prevented many
   bands from moving to agriculture.
@@ -183,7 +185,7 @@
 * Bands that continued to hunt and gather for food maintained military power
   that allowed them to fight with and raid agricultural settlements.
 
-### The Transformation of Material Life
+#### The Transformation of Material Life
 
 * With the development of agriculture, humans began to transform more and more
   of the environment they lived in.
@@ -198,7 +200,7 @@
   allowed the human population to grow, technology to advance further, and
   the formation of complex societies.
 
-### Social Differentiation
+#### Social Differentiation
 
 * The surplus production made possible by agriculture allow role-based
   societies to form.
@@ -216,21 +218,21 @@
   agriculture.
   * They worked the fields and have continued to work them in most cultures.
 
-## The First Towns: Seedbeds of Civilization
+### The First Towns: Seedbeds of Civilization
 
 * Two of the earliest settlements were at Jericho, in present-day Palestine,
   and at Çatal Hüyük, in present-day Turkey. Their populations were about 2000
   and 5000 people, respectively.
   * They represent the first stirrings of urban life.
 
-### Jericho
+#### Jericho
 
 * Economy based primarily on wheat and barley farming.
   * There is considerable evidence of reliance on hunting and trade.
 * Town was governed by a distinct and powerful ruling group.
 * Had specialized artisans and a small merchant class.
 
-### Çatal Hüyük
+#### Çatal Hüyük
 
 * Founded around 7000 BCE.
 * Most advanced human center of the Neolithic Age.
@@ -245,7 +247,7 @@
 * Trade was extensive with the peoples in the surrounding hills and also in
   places as distant as present-day Syria and the Mediterranean region.
 
-## The 4th Millennium BCE: Another Watershed
+### The 4th Millennium BCE: Another Watershed
 
 * The years from 4000 to 3000 BCE saw a second wave of major transformations in
   human culture in the Middle East and nearby regions.
