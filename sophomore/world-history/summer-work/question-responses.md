@@ -198,7 +198,7 @@
    history of beverages full circle. 
    * Scientific advancements in the 19th century pinpointed the causes behind
      contaminated water, creating the possibility of drinking water safely.
-2. Which water's quality is more tightly controlled-tap or bottled? 
+2. Which waters' quality is more tightly controlled-tap or bottled? 
    * Tap water's quality is more tightly controlled than bottled water.
 3. How many people have no access to safe water today? 
    * 1.2 billion people lack access to safe water today.
