@@ -30,4 +30,4 @@ the human experience)
 
 **Strong essays will examine the author's use of language and rhetoric as a
 vehicle for theme. Your examination of theme should include the question: "What
-about...?"
+about...?"**
