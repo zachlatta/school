@@ -35,3 +35,17 @@ c. 4 million to c. 8,000 BCE
   * Average length of life was in the 20s.
 * Groups traded with neighboring groups when necessary
 * Practiced animism
+
+## Agriculture Pros and Cons
+
+| Pros                           | Cons                           |
+| ------------------------------ | ------------------------------ |
+| Permanent settlements          | Disease                        |
+| Increased food supply          | Hard work                      |
+| Specialized trades             | Alter environment              |
+| Tech & tools for development   | Famine                         |
+| Can be done anywhere           | Weather issues                 |
+| Increased populations          | War and conflict               |
+| Domestication of animals       | Social stratification          |
+| Less land to feed more         | Gender inequality              |
+|                                | Slave labor                    |
