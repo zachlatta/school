@@ -73,7 +73,7 @@ c. 8,000 - 3,500 BCE
     * Wild grains, berries, and nuts
   * Dependently and Independently
 
-###  Pastoral Societies
+### Pastoral Societies
 
 * Nomadic peoples who herd domesticated animals
 * Move in search of food for their animals.
@@ -97,9 +97,29 @@ c. 8,000 - 3,500 BCE
 * Earliest villages located in the Middle East.
 * Population of early villages evolved from the hundreds to the thousands.
 * Probably declined due to environmental degradation.
-* Full-tie political and religious figures emerge as community leaders.
+
+#### Life in Early Villages
+
+* Full-time political and religious figures emerge as community leaders.
 * Specilized workers such as toolmakers, miners, and merchants
 * Despite specialization well-defined social stratification did not exist.
 * Farming & specializaiton of labor led to decline in the role of women.
 * Farming & specialized labor led to increase in technology
   * Pottery, the plow, irrigation, woven textiles, wheeled vehicles
+
+### Social Differentiation
+
+* Specialized occupations
+* Regional exchange of goods
+* Communal ownership
+* Hierarchical social structures
+  * Patriarchal
+* Elite groups with "weath"
+
+## Rise of Civilizations
+4th Millennium BCE
+
+* New discoveries transformed permanent settlements into civilizations
+  * Bronze
+  * Writing
+* First civilization emerged in Mesopotamia (modern day Iraq) c. 3500 BCE
