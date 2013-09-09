@@ -1,5 +1,6 @@
 \documentclass[12pt]{article}
-\usepackage{csvsimple}
+\usepackage{pgfplotstable}
+\usepackage{array}
 
 \title{Percentage of Water in Popcorn}
 \author{Zach Latta, Angel Madrid, Bailey Frierson, Samantha Lee, Griffin Troy}
@@ -9,7 +10,15 @@
 \maketitle
 
 \section{Data Table}
-\csvautotabular{masses.csv}
+
+\pgfplotstabletypeset[
+  col sep=comma,
+  string type,
+  every head row/.style={before row=\hline,after row=\hline},
+  every last row/.style={after row=\hline},
+] {masses.csv}
+\\\\
+Important note: masses include mass of beaker
 
 \section{Questions}
 
@@ -37,20 +46,51 @@
 \begin{enumerate}
   \item Determine the mass of 10 unpopped popcorn kernels for each brand of
     popcorn.
+    \begin{itemize}
+      \item Nice popcorn: $m = 2.6 = 97.4 - 94.8$, $26 = m * 10$. The mass of
+        10 unpopped Nice popcorn kernels is $26$g.
+      \item Orville popcorn: $m = 3.1 = 96.9 - 94.3$, $31 = m * 10$. The mass
+        of 10 unpopped Orville popcorn kernels is $31$g.
+    \end{itemize}
   \item Determine the mass of 10 popped popcorn kernels for each brand of popcorn.
+    \begin{itemize}
+      \item Nice popcorn: $m = 2.1 = 96.9 - 94.8$, $21 = m * 10$. The mass of
+        10 popped Nice popcorn kernels is $21$g.
+      \item Orville popcorn: $m = 2.2 = 96.5 - 94.3$, $22 = m * 10$. The mass
+        of 10 popped Orville popcorn kernels is $22$g.
+    \end{itemize}
   \item Determine the mass of water that was lost when the popcorn popped for each brand.
+    \begin{itemize}
+      \item Nice popcorn: $\ell = 0.5 = 97.4 - 96.9$. The volume of water lost
+        while popping Nice kernels is $0.5$mL.
+      \item Orville popcorn: $\ell = 0.4 = 96.9 - 96.5$. The volume of water
+        lost while popping Orville kernels is $0.4$mL.
+    \end{itemize}
 \end{enumerate}
 
 \subsection{Conclusions}
 
 \begin{enumerate}
   \item Determine the percentage by pass of water in each brand of popcorn.
+    \begin{itemize}
+      \item Nice popcorn: $m = 2.6$, $\ell = 0.5$,
+        $p = 0.192 = \frac{\ell}{m}$. Approximately $19.2$\% of Nice popcorn
+        kernels is water.
+      \item Orville popcorn: $m = 2.2$, $\ell = 0.4$,
+        $p = 0.182 = \frac{\ell}{m}$. Approximately $18.2$\% of Orville popcorn
+        kernels is water.
+    \end{itemize}
   \item Do all brands of popcorn contain approximately the same percentage of water?
+    \begin{itemize}
+      \item Yes, all brands of popcorn contain approximately the same
+        percentage of water.
+    \end{itemize}
   \item What are some likely areas of error in this experiment?
+    \begin{itemize}
+      \item Likely areas of error include, but are not limited to, distribution
+        of popcorn kernels in the beaker, time beaker is left on the Bunsen
+        burner, and inconsistent coating of kernels with oil.
+    \end{itemize}
 \end{enumerate}
-
-The percentage of water in poopcorn can be dtermined by the following equation.
-
-Initial mass-final mass X100 = percentage of H2O in upopped popcorn initial mass
 
 \end{document}
