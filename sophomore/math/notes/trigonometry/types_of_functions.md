@@ -1,11 +1,13 @@
-$\sin (A) = \frac{a}{c}$
+# Types of Trigonometry Functions
 
-$\cos (A) = \frac{b}{c}$
+![](http://tex.sh/$\sin \(A\) = \\frac{a}{c}$)
 
-$\tan (A) = \frac{a}{b}$
+![](http://tex.sh/$\cos \(A\)  =\\frac{b}{c}$)
 
-$cosecant A = \csc (A) = \frac{c}{a}$
+![](http://tex.sh/$\tan \(A\) = \\frac{a}{b}$)
 
-$secant A = \sec (A) = \frac{c}{b}$
+![](http://tex.sh/$cosecant A = \csc \(A\) = \\frac{c}{a}$)
 
-$cotangent A = \cot (A) = \frac{b}{a}$
+![](http://tex.sh/$secant A = \sec \(A\) = \\frac{c}{b}$)
+
+![](http://tex.sh/$cotangent A = \cot \(A\) = \\frac{b}{a}$)
