@@ -15,10 +15,10 @@ technology available.
 * LaTeX - reports/papers
 * Julia - technical computing
 
-## Cheating
+## Plagiarism
 
 I am making my coursework available under the assumption that it will not be
-plagiarized, use to cheat, or used for other malicious activities.
+plagiarized. Doing so is in violation of the MIT license.
 
 ## Pull Requests
 
