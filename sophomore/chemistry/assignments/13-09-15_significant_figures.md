@@ -1,13 +1,23 @@
+# Significant Figures
+
 For the following problems, write the number of significant figures.
 
-1. 1,567.0 
-2. 75,000,000
-3. 0.04304
-4. 6.54×10-6
-5. 4009
-6. 10   
-7. 8.08×10-2  
-8. 3,450.0    
+1. ![](http://tex.sh/$1,567.0$)
+  * ![](http://tex.sh/$4$)
+2. ![](http://tex.sh/$75,000,000$)
+  * ![](http://tex.sh/$8$)
+3. ![](http://tex.sh/$0.04304$)
+  * ![](http://tex.sh/$5$)
+4. ![](http://tex.sh/$6.54 * 10^(-6)$)
+  * ![](http://tex.sh/$8$)
+5. ![](http://tex.sh/$4009$)
+  * ![](http://tex.sh/$4$)
+6. ![](http://tex.sh/$10$)
+  * ![](http://tex.sh/$2$)
+7. ![](http://tex.sh/$8.08 * 10^(-2)$)
+  * ![](http://tex.sh/$4$)
+8. ![](http://tex.sh/$3,450.0$)
+  * ![](http://tex.sh/$4$)
 
 Rounding: For the following problems, round to the indicated number of
 significant figures in parentheses.  Write your answer on the line provided for
