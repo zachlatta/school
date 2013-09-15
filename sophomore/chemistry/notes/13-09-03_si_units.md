@@ -4,8 +4,8 @@
 
 * Length = meter (m)
 * Volume = liter (L) for liquids
-  * or cubic centimer (cm^3) for solids
-  * Note: 1mL = 1cm^3
+  * or cubic centimer (![](http://tex.sh/$cm^3$)) for solids
+  * Note: ![](http://tex.sh/$1 mL = 1 cm^3$)
 * Mass = gram (g)
 
 ## Prefixes
