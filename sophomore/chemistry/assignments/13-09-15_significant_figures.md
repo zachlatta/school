@@ -24,10 +24,12 @@ significant figures in parentheses.  Write your answer on the line provided for
 you.
 
 1. 3.65 (2)   
+  * 3.7
 2. 5,660,000 (1)  
+  * 6,000,000
 3. 20.20 (3)  
 4. 8911032 (5)  
-5. 7.43×10-4 (1)  
+5. 7.43×10^(-4) (1)  
 6. 4.303 (3)  
 7. 0.0034189 (3)  
 8. 45.9764 (4)  
