@@ -44,9 +44,17 @@
 ## Document 5
 
 1. How would you describe the Chinese system of writing?
+  * The Chinese system of writing is, like many early writing systems, oriented
+    around pictographs and other symbolic entities.
 2. What impact did a written language have on China?
+  * Written language helped unify the various lands and peoples in China.
 
 ## Document 6
 
 1. What made the cities along the Indus unusual for their time?
+  * The cities had an organized plan with separate residential and business
+    sectors, similar to our cities today. The cities also contained impressive
+    engineering feats, notably the integration of plumbing and sewer systems
+    in most houses.
 2. What impact did this urban planning have on later civilizations?
+  * It set a precedent and acted as an examples for later civilizations.
