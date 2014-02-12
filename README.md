@@ -10,7 +10,7 @@ technology available.
 ## Tools
 
 * Git (of course)
-* Github - repository host
+* GitHub - repository host
 * vim - viewing/taking notes
 * LaTeX - reports/papers
 * Julia - technical computing
