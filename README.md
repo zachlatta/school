@@ -1,4 +1,4 @@
-# School
+# School ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/school/readme?pixel)
 
 I'm open sourcing my education.
 
